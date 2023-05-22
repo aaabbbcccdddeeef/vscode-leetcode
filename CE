@@ -1,0 +1,5 @@
+phone_number = "212-963-0071"
+
+new_number = phone_number.replace("9", "6").replace("4", "3").replace("-", "n")
+
+print(new_number)
